@@ -23,7 +23,8 @@ use this project to customize your MacOS folders<br/>
 Demonstration OF App
 ![Screenshot 2024-10-28 at 1 53 52 PM](https://github.com/user-attachments/assets/3df2b811-f489-4337-8dde-46d60236a9c6)
 
-![Uploading Screen Recording 2024-10-28 at 4.22.50 PM (1).gif…]()
+![Screen Recording 2024-10-28 at 4 22 50 PM (1)](https://github.com/user-attachments/assets/94451167-3fab-4dc3-9c0f-348e61a3ff8d)
+
 
 
 Know issues 
