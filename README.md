@@ -7,11 +7,17 @@
 
 
 Folder Color Changer For MacOS<br/>
+
 Uses Swift Ui<br/>
+
 Opensource<br/>
+
 Buggy and only one Design of folder Available Currently<br/>
+
 Version 1.0<br/>
+
 Xcode project can be dowloaded to run and build this app as I have no apple Developer Account to publish App directly<br/>
+
 use this project to customize your MacOS folders<br/>
 
 Demonstration OF App
@@ -22,5 +28,10 @@ Demonstration OF App
 Know issues 
 
 The Folders which has been colored once cannot be coloured again using this tool<br/>
+
 Folders which has been coloured using this tool are Solid Fil rather than tint <br/>
+
 Resizing Issue<br/>
+
+-OCTEXA
+
