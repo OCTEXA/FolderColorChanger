@@ -14,12 +14,11 @@ Opensource<br/>
 
 Buggy and only one Design of folder Available Currently<br/>
 
-
 Xcode project can be dowloaded to run and build this app as I have no apple Developer Account to publish App directly<br/>
 
 use this project to customize your MacOS folders<br/>
 
-Demonstration OF App
+SCREENSHOTS/GIFS
 
 ![Screenshot 2024-10-28 at 10 14 30 PM](https://github.com/user-attachments/assets/ae029e8e-4e86-4029-a162-b33c496017a0)
 
@@ -42,7 +41,7 @@ Run app and select color and just drag your folder to apply your selected color<
 
 
 
-Know issues 
+KNOW ISSUES WITH APP
 
 The Folders which has been colored once cannot be coloured again using this tool<br/>
 
