@@ -100,7 +100,7 @@ struct ContentView: View {
 
                     // GitHub Button
                     Button(action: {
-                        if let url = URL(string: "https://github.com/OCTEXA") {
+                        if let url = URL(string: "https://github.com/OCTEXA/FolderColorChanger") {
                             NSWorkspace.shared.open(url) // Open the GitHub link
                         }
                     }) {
