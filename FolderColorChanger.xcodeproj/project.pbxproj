@@ -1,0 +1,550 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		1BC0A0762CCF5F1A00756A3D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1BC0A05C2CCF5F1800756A3D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1BC0A0632CCF5F1800756A3D;
+			remoteInfo = FolderColorChanger;
+		};
+		1BC0A0802CCF5F1A00756A3D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1BC0A05C2CCF5F1800756A3D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1BC0A0632CCF5F1800756A3D;
+			remoteInfo = FolderColorChanger;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1BC0A0642CCF5F1800756A3D /* FolderColorChanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FolderColorChanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BC0A0752CCF5F1A00756A3D /* FolderColorChangerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FolderColorChangerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BC0A07F2CCF5F1A00756A3D /* FolderColorChangerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FolderColorChangerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		1BC0A0662CCF5F1800756A3D /* FolderColorChanger */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FolderColorChanger;
+			sourceTree = "<group>";
+		};
+		1BC0A0782CCF5F1A00756A3D /* FolderColorChangerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FolderColorChangerTests;
+			sourceTree = "<group>";
+		};
+		1BC0A0822CCF5F1A00756A3D /* FolderColorChangerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FolderColorChangerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1BC0A0612CCF5F1800756A3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1BC0A0722CCF5F1A00756A3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1BC0A07C2CCF5F1A00756A3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1BC0A05B2CCF5F1800756A3D = {
+			isa = PBXGroup;
+			children = (
+				1BC0A0662CCF5F1800756A3D /* FolderColorChanger */,
+				1BC0A0782CCF5F1A00756A3D /* FolderColorChangerTests */,
+				1BC0A0822CCF5F1A00756A3D /* FolderColorChangerUITests */,
+				1BC0A0652CCF5F1800756A3D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1BC0A0652CCF5F1800756A3D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1BC0A0642CCF5F1800756A3D /* FolderColorChanger.app */,
+				1BC0A0752CCF5F1A00756A3D /* FolderColorChangerTests.xctest */,
+				1BC0A07F2CCF5F1A00756A3D /* FolderColorChangerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1BC0A0632CCF5F1800756A3D /* FolderColorChanger */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1BC0A0892CCF5F1A00756A3D /* Build configuration list for PBXNativeTarget "FolderColorChanger" */;
+			buildPhases = (
+				1BC0A0602CCF5F1800756A3D /* Sources */,
+				1BC0A0612CCF5F1800756A3D /* Frameworks */,
+				1BC0A0622CCF5F1800756A3D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				1BC0A0662CCF5F1800756A3D /* FolderColorChanger */,
+			);
+			name = FolderColorChanger;
+			packageProductDependencies = (
+			);
+			productName = FolderColorChanger;
+			productReference = 1BC0A0642CCF5F1800756A3D /* FolderColorChanger.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1BC0A0742CCF5F1A00756A3D /* FolderColorChangerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1BC0A08C2CCF5F1A00756A3D /* Build configuration list for PBXNativeTarget "FolderColorChangerTests" */;
+			buildPhases = (
+				1BC0A0712CCF5F1A00756A3D /* Sources */,
+				1BC0A0722CCF5F1A00756A3D /* Frameworks */,
+				1BC0A0732CCF5F1A00756A3D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1BC0A0772CCF5F1A00756A3D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				1BC0A0782CCF5F1A00756A3D /* FolderColorChangerTests */,
+			);
+			name = FolderColorChangerTests;
+			packageProductDependencies = (
+			);
+			productName = FolderColorChangerTests;
+			productReference = 1BC0A0752CCF5F1A00756A3D /* FolderColorChangerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		1BC0A07E2CCF5F1A00756A3D /* FolderColorChangerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1BC0A08F2CCF5F1A00756A3D /* Build configuration list for PBXNativeTarget "FolderColorChangerUITests" */;
+			buildPhases = (
+				1BC0A07B2CCF5F1A00756A3D /* Sources */,
+				1BC0A07C2CCF5F1A00756A3D /* Frameworks */,
+				1BC0A07D2CCF5F1A00756A3D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1BC0A0812CCF5F1A00756A3D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				1BC0A0822CCF5F1A00756A3D /* FolderColorChangerUITests */,
+			);
+			name = FolderColorChangerUITests;
+			packageProductDependencies = (
+			);
+			productName = FolderColorChangerUITests;
+			productReference = 1BC0A07F2CCF5F1A00756A3D /* FolderColorChangerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1BC0A05C2CCF5F1800756A3D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					1BC0A0632CCF5F1800756A3D = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					1BC0A0742CCF5F1A00756A3D = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 1BC0A0632CCF5F1800756A3D;
+					};
+					1BC0A07E2CCF5F1A00756A3D = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 1BC0A0632CCF5F1800756A3D;
+					};
+				};
+			};
+			buildConfigurationList = 1BC0A05F2CCF5F1800756A3D /* Build configuration list for PBXProject "FolderColorChanger" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1BC0A05B2CCF5F1800756A3D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 1BC0A0652CCF5F1800756A3D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1BC0A0632CCF5F1800756A3D /* FolderColorChanger */,
+				1BC0A0742CCF5F1A00756A3D /* FolderColorChangerTests */,
+				1BC0A07E2CCF5F1A00756A3D /* FolderColorChangerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1BC0A0622CCF5F1800756A3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1BC0A0732CCF5F1A00756A3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1BC0A07D2CCF5F1A00756A3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1BC0A0602CCF5F1800756A3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1BC0A0712CCF5F1A00756A3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1BC0A07B2CCF5F1A00756A3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1BC0A0772CCF5F1A00756A3D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1BC0A0632CCF5F1800756A3D /* FolderColorChanger */;
+			targetProxy = 1BC0A0762CCF5F1A00756A3D /* PBXContainerItemProxy */;
+		};
+		1BC0A0812CCF5F1A00756A3D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1BC0A0632CCF5F1800756A3D /* FolderColorChanger */;
+			targetProxy = 1BC0A0802CCF5F1A00756A3D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1BC0A0872CCF5F1A00756A3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1BC0A0882CCF5F1A00756A3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		1BC0A08A2CCF5F1A00756A3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FolderColorChanger/FolderColorChanger.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = " TEST BUILD ";
+				DEVELOPMENT_ASSET_PATHS = "\"FolderColorChanger/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = OCTEXA.FolderColorChanger;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		1BC0A08B2CCF5F1A00756A3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FolderColorChanger/FolderColorChanger.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = " TEST BUILD ";
+				DEVELOPMENT_ASSET_PATHS = "\"FolderColorChanger/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = OCTEXA.FolderColorChanger;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1BC0A08D2CCF5F1A00756A3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OCTEXA.FolderColorChangerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FolderColorChanger.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FolderColorChanger";
+			};
+			name = Debug;
+		};
+		1BC0A08E2CCF5F1A00756A3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OCTEXA.FolderColorChangerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FolderColorChanger.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FolderColorChanger";
+			};
+			name = Release;
+		};
+		1BC0A0902CCF5F1A00756A3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OCTEXA.FolderColorChangerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = FolderColorChanger;
+			};
+			name = Debug;
+		};
+		1BC0A0912CCF5F1A00756A3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = OCTEXA.FolderColorChangerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = FolderColorChanger;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1BC0A05F2CCF5F1800756A3D /* Build configuration list for PBXProject "FolderColorChanger" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BC0A0872CCF5F1A00756A3D /* Debug */,
+				1BC0A0882CCF5F1A00756A3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1BC0A0892CCF5F1A00756A3D /* Build configuration list for PBXNativeTarget "FolderColorChanger" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BC0A08A2CCF5F1A00756A3D /* Debug */,
+				1BC0A08B2CCF5F1A00756A3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1BC0A08C2CCF5F1A00756A3D /* Build configuration list for PBXNativeTarget "FolderColorChangerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BC0A08D2CCF5F1A00756A3D /* Debug */,
+				1BC0A08E2CCF5F1A00756A3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1BC0A08F2CCF5F1A00756A3D /* Build configuration list for PBXNativeTarget "FolderColorChangerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BC0A0902CCF5F1A00756A3D /* Debug */,
+				1BC0A0912CCF5F1A00756A3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1BC0A05C2CCF5F1800756A3D /* Project object */;
+}
