@@ -26,6 +26,22 @@ Demonstration OF App
 ![Screen Recording 2024-10-28 at 10 21 01 PM](https://github.com/user-attachments/assets/fe59c906-5006-4eba-9919-0a18eebd675b)
 
 
+HOW TO USE 
+
+Install Xcode <br/>
+
+Open the xcode project file <br/>
+
+In MenuBar>Product>Archieve<br/>
+
+After Archieve Window appears choose Custom then Export Copy Of App <br/>
+
+Move the app frome archieve folder to application<br/>
+
+Run app and select color and just drag your folder to apply your selected color<br/>
+
+
+
 Know issues 
 
 The Folders which has been colored once cannot be coloured again using this tool<br/>
