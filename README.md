@@ -25,6 +25,8 @@ Demonstration OF App
 
 ![Screen Recording 2024-10-28 at 4 22 50 PM (1)](https://github.com/user-attachments/assets/94451167-3fab-4dc3-9c0f-348e61a3ff8d)
 
+![Screenshot 2024-10-28 at 4 53 27 PM](https://github.com/user-attachments/assets/09002940-b7bd-41ff-ae78-5b64f660d28a)
+
 
 
 Know issues 
